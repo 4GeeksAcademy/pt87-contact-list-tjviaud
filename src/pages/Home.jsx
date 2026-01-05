@@ -80,7 +80,7 @@ export const Home = () => {
         
             <div className="d-flex align-items-center">
               <img
-                src="https://placedog.net/300" 
+                src="https://placedog.net/1000?id=3" 
                 alt="Profile"
                 style={{
                   width: "70px",
